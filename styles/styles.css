@@ -67,10 +67,13 @@ body{
     line-height: 2.5;
     padding: 1em;
     color: #052051;
+    
+    
 }
 
 .texto textarea::placeholder {
     color: #072b61;
+    
 }
 
 /* Adventencia minusculas */
@@ -187,6 +190,7 @@ body{
     background-color: #ffffff90;
     align-items: center;
     justify-content: center;
+    
 }
 
 .mostrar-texto textarea {
@@ -199,6 +203,7 @@ body{
     font-size: 2em;
     line-height: 1.5;
     padding: 1em;
+
 }
 
 
